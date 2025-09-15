@@ -1,1 +1,1 @@
-# genesis
+# ZapChain Genesis
